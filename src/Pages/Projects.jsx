@@ -6,9 +6,9 @@ const projects = [
     title: "Portfolio Website",
     description:
       "A personal portfolio website built with React and Tailwind CSS showcasing projects and skills.",
-    imageUrl: "https://via.placeholder.com/400x250.png?text=Portfolio+Website",
-    liveUrl: "https://yourportfolio.com",
-    githubUrl: "https://github.com/yourusername/portfolio",
+    imageUrl: "/portfolio.png",
+    liveUrl: "https://my-portfolio-ashen-psi-30.vercel.app",
+    githubUrl: "https://github.com/hridoy000111/my-portfolio.git",
   },
   {
     id: 2,
@@ -25,8 +25,8 @@ const projects = [
     description:
       "A React-based task manager app with CRUD operations and local storage support.",
     imageUrl: "https://via.placeholder.com/400x250.png?text=Task+Manager+App",
-    liveUrl: "https://yourtaskmanager.com",
-    githubUrl: "https://github.com/yourusername/task-manager",
+    liveUrl: "https://my-portfolio-ashen-psi-30.vercel.app",
+    githubUrl: "https://github.com/hridoy000111/my-portfolio.git",
   },
 ];
 
