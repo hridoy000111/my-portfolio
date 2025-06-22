@@ -66,7 +66,7 @@ const Home = () => {
         {/* Social Icons */}
         <div className="flex gap-5 mt-6 justify-center md:justify-start text-xl sm:text-2xl text-blue-600">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/hridoy000111"
             target="_blank"
             rel="noreferrer"
           >
@@ -80,7 +80,7 @@ const Home = () => {
             <FaLinkedin className="hover:text-blue-800 duration-300" />
           </a>
           <a
-            href="https://fiverr.com/yourusername"
+            href="https://fiverr.com/hridoy000111"
             target="_blank"
             rel="noreferrer"
           >

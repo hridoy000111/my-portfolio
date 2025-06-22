@@ -12,21 +12,21 @@ const projects = [
   },
   {
     id: 2,
-    title: "E-commerce Store",
+    title: "Newspaper Project",
     description:
-      "Fully responsive e-commerce store with shopping cart, product filters, and payment integration.",
-    imageUrl: "https://via.placeholder.com/400x250.png?text=E-commerce+Store",
-    liveUrl: "https://yourecommerce.com",
-    githubUrl: "https://github.com/yourusername/ecommerce-store",
+      "A responsive news portal built with React.js. It features category-wise news, dynamic routing, Firebase authentication (Email & Google login), and protected routes. Clean UI and smooth navigation using React Router and Context API.",
+    imageUrl: "/dragon.png",
+    liveUrl: "https://dragon-news-six-lime.vercel.app ",
+    githubUrl: "https://github.com/hridoy000111/dragon-news.git",
   },
   {
     id: 3,
-    title: "Task Manager App",
+    title: "A Weather App",
     description:
-      "A React-based task manager app with CRUD operations and local storage support.",
-    imageUrl: "https://via.placeholder.com/400x250.png?text=Task+Manager+App",
-    liveUrl: "https://my-portfolio-ashen-psi-30.vercel.app",
-    githubUrl: "https://github.com/hridoy000111/my-portfolio.git",
+      "A simple and responsive weather application built with React.js. It fetches real-time weather data using a public API and displays temperature, location, and weather conditions. Clean UI with smooth user experience.",
+    imageUrl: "/weather.png",
+    liveUrl: "https://weather-app-rosy-two-68.vercel.app",
+    githubUrl: "https://github.com/hridoy000111/weather-app.git",
   },
 ];
 
